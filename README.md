@@ -6,7 +6,7 @@ Professional content auditing & quality control plugin for Unreal Engine.
 
 Scan your project folders and detect common production issues related to organization, consistency, and asset settings. Review results in a dedicated panel sorted by severity and fix supported issues with a preview-before-apply system.
 
-⭐ **If you found it useful, please consider leaving a review to help us keep updating the product.**
+⭐⭐ **If you found it useful, please consider leaving a review to help us keep updating the product.** ⭐⭐
 
 ---
 
