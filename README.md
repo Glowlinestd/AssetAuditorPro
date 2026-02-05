@@ -1,4 +1,5 @@
 ![Content Inspector Pro](https://img.shields.io/badge/Content%20Inspector%20Pro-v1.0-blue?style=for-the-badge)
+<img width="1863" height="513" alt="Banner" src="https://github.com/user-attachments/assets/b68508f0-abfa-4eaa-8bf0-12a4fa109745" />
 
 # Content Inspector Pro
 
