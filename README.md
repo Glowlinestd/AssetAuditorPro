@@ -13,7 +13,7 @@ Scan your project folders and detect common production issues related to organiz
 
 ## How to use
 
-**Content Inspector Pro** can be purchased from the [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace). Once installed, you can:
+**Content Inspector Pro** can be purchased from the [Unreal Engine Marketplace](https://www.fab.com/listings/6f0bf8a8-9b98-4696-a1de-a3f033e67703). Once installed, you can:
 
 1. **Right-click any folder** in the Content Browser and select "Scan with Content Inspector Pro"
 2. **Or open** Window > Content Inspector Pro and select a folder to scan
