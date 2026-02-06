@@ -68,5 +68,7 @@ Content Inspector Pro helps teams keep projects clean, organized, and consistent
 **Resources:**
 
 - 📖 [Wiki & Documentation](https://github.com/Glowlinestd/ContentInspectorPro/wiki/Getting-Started)
-- 🎮 [Unreal Marketplace](https://www.unrealengine.com/marketplace)
-- 💬 [Issues & Support](https://github.com/Glowlinestd/ContentInspectorPro/issues)
+- 🎮 [Unreal Marketplace](https://www.fab.com/listings/6f0bf8a8-9b98-4696-a1de-a3f033e67703)
+- 🐛 [Report issues](https://github.com/Glowlinestd/ContentInspectorPro/issues)
+- 💬 [Ask questions](https://forums.unrealengine.com/t/glowline-studio-content-inspector-pro/2697791)
+- 📺 [Video Demo](/)
