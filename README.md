@@ -1,7 +1,7 @@
-![Content Inspector Pro](https://img.shields.io/badge/Content%20Inspector%20Pro-v1.0-blue?style=for-the-badge)
+![Asset Auditor Pro](https://img.shields.io/badge/Asset%20Auditor%20Pro-v1.0-blue?style=for-the-badge)
 ![Thumbnail](https://github.com/user-attachments/assets/5bf863c7-ed51-4722-b4c3-7fff0ca4711f)
 
-# Content Inspector Pro
+# Asset Auditor Pro
 
 Professional content auditing & quality control plugin for Unreal Engine.
 
@@ -13,15 +13,15 @@ Scan your project folders and detect common production issues related to organiz
 
 ## How to use
 
-**Content Inspector Pro** can be purchased from the [Unreal Engine Marketplace](https://www.fab.com/listings/6f0bf8a8-9b98-4696-a1de-a3f033e67703). Once installed, you can:
+**Asset Auditor Pro** can be purchased from the [Unreal Engine Marketplace](https://www.fab.com/listings/6f0bf8a8-9b98-4696-a1de-a3f033e67703). Once installed, you can:
 
-1. **Right-click any folder** in the Content Browser and select "Scan with Content Inspector Pro"
-2. **Or open** Window > Content Inspector Pro and select a folder to scan
+1. **Right-click any folder** in the Content Browser and select "Scan with Asset Auditor Pro"
+2. **Or open** Window > Asset Auditor Pro and select a folder to scan
 3. **Review detected issues** sorted by severity (Info / Warning / Error)
 4. **Use Auto-Fix** to fix supported issues with granular selection and preview
 5. **Export reports** in CSV, JSON, or HTML format
 
-For detailed help, check the [Getting Started](https://github.com/Glowlinestd/ContentInspectorPro/wiki/Getting-Started) guide in the Wiki.
+For detailed help, check the [Getting Started](https://github.com/Glowlinestd/AssetAuditorPro/wiki/Getting-Started) guide in the Wiki.
 
 ---
 
@@ -34,6 +34,7 @@ For detailed help, check the [Getting Started](https://github.com/Glowlinestd/Co
 - Static Mesh LODs — Audits LOD setup on static meshes
 - Redirectors — Detects problematic redirectors
 - Empty Folders — Finds empty folders in the project
+- Duplicate Assets — identifies content-identical assets and consolidates duplicates
 
 ---
 
@@ -41,17 +42,17 @@ For detailed help, check the [Getting Started](https://github.com/Glowlinestd/Co
 
 | Unreal Engine | Plugin Version | Support |
 | ------------- | -------------- | ------- |
-| 5.7           | 1.0            | ✅      |
+| 5.7           | 1.1            | ✅      |
 
 ---
 
 ## Changelog
 
-### Version 1.0
+### Version 1.1
 
 **Features:**
 
-- Complete inspection system with 7 audit rules
+- Complete inspection system with 8 audit rules
 - Auto-Fix with preview and granular selection
 - Report export in CSV, JSON, and HTML formats
 - Interactive panel integrated in the editor
@@ -63,12 +64,10 @@ For detailed help, check the [Getting Started](https://github.com/Glowlinestd/Co
 
 ## About
 
-Content Inspector Pro helps teams keep projects clean, organized, and consistent. Perfect for indie studios and production teams that need fast audits, clear reports, and review-friendly fixes.
+Asset Auditor Pro helps teams keep projects clean, organized, and consistent. Perfect for indie studios and production teams that need fast audits, clear reports, and review-friendly fixes.
 
 **Resources:**
 
-- 📖 [Wiki & Documentation](https://github.com/Glowlinestd/ContentInspectorPro/wiki/Getting-Started)
+- 📖 [Wiki & Documentation](https://github.com/Glowlinestd/AssetAuditorPro/wiki/Getting-Started)
 - 🎮 [Unreal Marketplace](https://www.fab.com/listings/6f0bf8a8-9b98-4696-a1de-a3f033e67703)
-- 🐛 [Report issues](https://github.com/Glowlinestd/ContentInspectorPro/issues)
-- 💬 [Ask questions](https://forums.unrealengine.com/t/glowline-studio-content-inspector-pro/2697791)
-- 📺 [Video Demo](/)
+- 🐛 [Report issues](https://github.com/Glowlinestd/AssetAuditorPro/issues)
