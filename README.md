@@ -1,5 +1,5 @@
 ![Asset Auditor Pro](https://img.shields.io/badge/Asset%20Auditor%20Pro-v1.0-blue?style=for-the-badge)
-![Thumbnail](https://github.com/user-attachments/assets/5bf863c7-ed51-4722-b4c3-7fff0ca4711f)
+![Thumbnail](https://github.com/user-attachments/assets/085c6948-c1fe-46f6-97b7-ee6229fed22f)
 
 # Asset Auditor Pro
 
